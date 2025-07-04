@@ -1,4 +1,4 @@
-# Hi, I’m Skibelem 👋
+# Hi, I’m Joel Adelugba 👋
 
 **Web Developer & Software Engineer**  
 Passionate about building clean, functional digital experiences.
@@ -10,7 +10,7 @@ Passionate about building clean, functional digital experiences.
 I'm a self-driven web developer and software engineer with a strong creative edge—I don’t just build websites, I craft experiences. My love for football has taught me how to think fast, adapt quickly, and thrive both as a team player and a solo creator in the digital world.
 
 - 💻 Tech Stack: **React, JavaScript, Tailwind CSS**
-- ⚡ Favorite Project: [survnet](https://github.com/Skibelem/survnet)
+- ⚡ Favorite Project: [survnet](https://github.com/Skibelem/SurveyCashFlow)
 - 🏆 Always learning, always improving
 
 ---
