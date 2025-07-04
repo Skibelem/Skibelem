@@ -10,7 +10,7 @@ Passionate about building clean, functional digital experiences.
 I'm a self-driven web developer and software engineer with a strong creative edge—I don’t just build websites, I craft experiences. My love for football has taught me how to think fast, adapt quickly, and thrive both as a team player and a solo creator in the digital world.
 
 - 💻 Tech Stack: **React, JavaScript, Tailwind CSS**
-- ⚡ Favorite Project: [survnet](https://github.com/Skibelem/SurveyCashFlow)
+- ⚡ Favorite Project: [SurveyCashFLow](https://github.com/Skibelem/Survey)
 - 🏆 Always learning, always improving
 
 ---
@@ -23,7 +23,7 @@ When I'm not coding, you’ll likely find me on the football field, staying acti
 
 ### 📌 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skibelem&repo=survnet)](https://github.com/Skibelem/survnet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skibelem&repo=Survey)](https://github.com/Skibelem/Survey)
 
 ---
 
